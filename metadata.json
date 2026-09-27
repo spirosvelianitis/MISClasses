@@ -1,0 +1,6 @@
+{
+  "name": "ClassPulse - Real-time Class Availability Tracker",
+  "description": "Live Google Sheets synchronized class availability dashboard with real-time seat gauges, 30s auto-refresh, and dual Admin and End-User accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

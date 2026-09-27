@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --color-csus-green: #043927;
+  --color-csus-green-hover: #065439;
+  --color-csus-green-dark: #022419;
+  --color-csus-green-darkest: #011810;
+  --color-csus-green-surface: #063e2c;
+  --color-csus-green-card: #053827;
+  --color-csus-green-card-hover: #074934;
+  --color-csus-green-border: rgba(196, 154, 69, 0.25);
+  
+  --color-csus-green-50: #eef6f2;
+  --color-csus-green-100: #d7ede1;
+  --color-csus-green-200: #b2dbc6;
+  
+  --color-csus-gold: #c49a45;
+  --color-csus-gold-hover: #b38936;
+  --color-csus-gold-light: #e8ca84;
+  --color-csus-gold-50: #fbf8f0;
+  --color-csus-gold-100: #f5eed8;
+  --color-csus-gold-200: #ebdcb2;
+}
+
+:root {
+  --csus-primary: #043927;
+  --csus-secondary: #c49a45;
+  background-color: #022419;
+  color: #f8fafc;
+}
+
+html, body {
+  background-color: #022419;
+  color: #f8fafc;
+  min-height: 100vh;
+}
